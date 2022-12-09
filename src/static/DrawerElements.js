@@ -16,11 +16,11 @@ export const DrawerElements1= [
         Icon:FiUsers
     },
     {
-        label:'Bookings',
+        label:'Diseases',
         Icon:TbBrandBooking
     },
     {
-        label:'Rooms',
+        label:'Crop Tracker',
         Icon:MdOutlineHomeWork
     },
     {
