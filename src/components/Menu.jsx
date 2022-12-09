@@ -9,7 +9,7 @@ const Menu = () => {
     <>
       <div className="flex lg:hidden justify-between w-full py-5 px-10">
         <a href="/">LOGO</a>
-        <button><CgMenuRound size={40} /></button>
+        <button><CgMenuRound size={40} />ashd</button>
       </div>
     </>
   );
